@@ -1,0 +1,2 @@
+export const SET_HE_THONG_RAP_PHIM = 'SET_HE_THONG_RAP_PHIM';
+export const SET_CHI_TIET_PHIM = 'SET_CHI_TIET_PHIM';
